@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 
 # prepare object points
-nx = 8
-ny = 6
+nx = 8 # The number of inside corners in x
+ny = 6 # The number of inside corners in y
 # Make a list of calibration images
 fname = 'calibration_test.png'
 img = cv2.imread(fname)
