@@ -2,6 +2,8 @@
 
 ### Drawing corners in an image of a chessboard pattern.
 
+Using the OpenCV functions findChessboardCorners() and drawChessboardCorners() to automatically find and draw corners in an image of a chessboard pattern. Corners are only points where two black and two white squares intersect, in other words, only counting inside corners, not outside corners.
+
 ### The Sample Image
 
 ![calibration_test](https://user-images.githubusercontent.com/34116562/48989507-95573c00-f150-11e8-80f3-4aa46795045f.png)
