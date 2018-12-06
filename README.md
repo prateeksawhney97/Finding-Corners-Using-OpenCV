@@ -1,4 +1,6 @@
 # Finding-Corners-Using-OpenCV
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+
 
 ### Drawing corners in an image of a chessboard pattern.
 
